@@ -98,69 +98,104 @@ Cursor / Claude / ChatGPT workflows · prompt-guided refactoring · code review 
 
 ## 🌟 Highlighted Work
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/faruk-sekman/local-ai-team-simulator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=faruk-sekman&repo=local-ai-team-simulator&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=8B5CF6" alt="Local AI Team Simulator" />
-</a>
-<a href="https://github.com/faruk-sekman/fintechDashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=faruk-sekman&repo=fintechDashboard&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=8B5CF6" alt="Fintech Dashboard" />
-</a>
+### 🤖 [Local AI Team Simulator](https://github.com/faruk-sekman/local-ai-team-simulator)
 
-<a href="https://github.com/faruk-sekman/microFrontEnd">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=faruk-sekman&repo=microFrontEnd&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=8B5CF6" alt="Micro FrontEnd" />
-</a>
-<a href="https://github.com/faruk-sekman/e-commerce_Angular">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=faruk-sekman&repo=e-commerce_Angular&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=8B5CF6" alt="E-commerce Angular" />
-</a>
+> From a single sentence to a browser-previewable app through a **local AI software team**.
 
-</div>
-
-### 🔬 Project Highlights
-
-<details>
-<summary><b>🤖 Local AI Team Simulator</b> — From single sentence to browser-previewable app</summary>
-
-<br/>
-
-> A **local AI software team** that turns a prompt into a working web app via specialized agent roles.
-
-**Stack:** `React` · `Express` · `TypeScript` · `Ollama` · `qwen2.5-coder` · `Agent Workflow`
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent_Workflow-8B5CF6?style=flat-square" />
+</p>
 
 - 🧠 Manager, Backend, Designer, Frontend & QA-style agent roles
-- 📡 Live workflow status via Server-Sent Events (SSE)
-- 🔒 Safe `iframe` preview for generated HTML/CSS/JS
+- 📡 Live workflow status via Server-Sent Events
+- 🔒 Safe iframe preview for generated HTML/CSS/JS
 - 🌐 Fully offline / local AI flow after model setup
-</details>
 
-<details>
-<summary><b>💳 Fintech Dashboard</b> — Angular operations dashboard</summary>
+<a href="https://github.com/faruk-sekman/local-ai-team-simulator">
+  <img src="https://img.shields.io/github/stars/faruk-sekman/local-ai-team-simulator?style=for-the-badge&color=8B5CF6&labelColor=0F172A&logo=github" alt="Stars" />
+</a>
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-> Operations dashboard for managing **customers, wallets & transactions**.
+### 💳 [Fintech Dashboard](https://github.com/faruk-sekman/fintechDashboard)
 
-**Stack:** `Angular` · `NgRx` · `RxJS` · `Tailwind` · `SCSS` · `ngx-translate` · `Vitest`
+> Angular-based operations dashboard for managing **customers, wallets & transactions**.
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+</p>
 
 - 👥 Customer CRUD flows, wallet limit updates, transaction filters
 - 🌍 TR/EN i18n · toast handling · light/dark theme
-- 📦 Lazy-loaded standalone architecture · feature-based structure
+- 📦 Lazy-loaded standalone architecture
 - ✅ 80%+ minimum line coverage target
-</details>
 
-<details>
-<summary><b>🧩 Micro FrontEnd</b> — Angular MFE architecture</summary>
+<a href="https://github.com/faruk-sekman/fintechDashboard">
+  <img src="https://img.shields.io/github/stars/faruk-sekman/fintechDashboard?style=for-the-badge&color=8B5CF6&labelColor=0F172A&logo=github" alt="Stars" />
+</a>
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-> Angular micro-frontend architecture with separate **container**, **store** & **shell** apps.
+### 🧩 [Micro FrontEnd](https://github.com/faruk-sekman/microFrontEnd)
 
-**Stack:** `Angular` · `Module Federation` · `TypeScript`
+> Angular micro-frontend architecture with separate **container, store & shell** apps.
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Module_Federation-1F6F5B?style=flat-square&logo=webpack&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
 
 - 🚀 Multi-app local run flow
 - 📐 Architecture diagrams & screen documentation
-- 🔀 Separate root/container and remote application structure
-</details>
+- 🔀 Separate root/container and remote app structure
+
+<a href="https://github.com/faruk-sekman/microFrontEnd">
+  <img src="https://img.shields.io/github/stars/faruk-sekman/microFrontEnd?style=for-the-badge&color=8B5CF6&labelColor=0F172A&logo=github" alt="Stars" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ [E-commerce Angular](https://github.com/faruk-sekman/e-commerce_Angular)
+
+> E-commerce UI demo with **product detail, basket and filtering** screens.
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CD6799?style=flat-square&logo=sass&logoColor=white" />
+</p>
+
+- 🔐 Login & home page flows
+- 🛒 Basket page with quantity management
+- 🔍 Product filtering & sorting
+- 📦 Generated with Angular CLI 16+
+
+<a href="https://github.com/faruk-sekman/e-commerce_Angular">
+  <img src="https://img.shields.io/github/stars/faruk-sekman/e-commerce_Angular?style=for-the-badge&color=8B5CF6&labelColor=0F172A&logo=github" alt="Stars" />
+</a>
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🛍️ Additional Front-End Projects</b></summary>
@@ -169,7 +204,6 @@ Cursor / Claude / ChatGPT workflows · prompt-guided refactoring · code review 
 
 | Project | Stack | Focus |
 | :--- | :--- | :--- |
-| [`e-commerce_Angular`](https://github.com/faruk-sekman/e-commerce_Angular) | Angular · TypeScript · Bootstrap | E-commerce UI, product detail, basket |
 | [`e-commerce_Vue`](https://github.com/faruk-sekman/e-commerce_Vue) | Vue · JavaScript | E-commerce flow with StackBlitz demo |
 | [`taskListAngular`](https://github.com/faruk-sekman/taskListAngular) | Angular · TypeScript | Task/voting Angular application |
 | [`userManagementVue`](https://github.com/faruk-sekman/userManagementVue) | Vue | User management interface |
@@ -221,6 +255,30 @@ Cursor / Claude / ChatGPT workflows · prompt-guided refactoring · code review 
 
 <div align="center">
 
+<!-- Key metrics via shields.io (rate-limit free) -->
+<p>
+  <img src="https://img.shields.io/github/followers/faruk-sekman?style=for-the-badge&logo=github&color=8B5CF6&labelColor=0F172A&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/faruk-sekman?style=for-the-badge&logo=github&color=8B5CF6&labelColor=0F172A&label=TOTAL+STARS" />
+  <img src="https://img.shields.io/badge/REPOS-8-8B5CF6?style=for-the-badge&logo=github&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/SINCE-2014-D97757?style=for-the-badge&logo=github&labelColor=0F172A" />
+</p>
+
+<br/>
+
+<!-- Streak Stats (demolab — reliable) -->
+<img src="https://streak-stats.demolab.com?user=faruk-sekman&theme=tokyonight&hide_border=true&background=0F172A&stroke=8B5CF6&ring=8B5CF6&fire=D97757&currStreakLabel=8B5CF6&sideLabels=CBD5E1&dates=64748B" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Activity graph (separate service — reliable) -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=faruk-sekman&bg_color=0F172A&color=CBD5E1&line=8B5CF6&point=D97757&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Activity graph" />
+
+<br/><br/>
+
+<!-- Profile Trophies (separate service — reliable) -->
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=faruk-sekman&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+
+</div>
 <!-- Stats card + Streak (side by side) -->
 <table>
 <tr>
