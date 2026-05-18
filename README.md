@@ -1,5 +1,5 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║              ÖMER FARUK SEKMAN · GITHUB PROFILE              ║ -->
+<!-- ║              FARUK SEKMAN · GITHUB PROFILE                   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <a href="https://github.com/faruk-sekman">
@@ -38,7 +38,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
 
 ```yaml
-name:        Ömer Faruk Sekman
+name:        Faruk Sekman
 role:        Senior AI-Native Software Engineer
 focus:       [ Agentic Systems, AI-Assisted Delivery, Front-End Architecture ]
 currently:   Designing AI-native delivery systems & local agent runtimes
