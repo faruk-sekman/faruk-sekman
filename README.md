@@ -215,36 +215,6 @@ Cursor / Claude / ChatGPT workflows · prompt-guided refactoring · code review 
 
 <br/>
 
-<!-- ─────────────────────────  EXPERIENCE  ───────────────────── -->
-
-## 💼 Experience Snapshot
-
-```text
-2023 ─ 2025  ✈️  Turkish Airlines / Kafein Technology Solutions
-              ├─  Weight & Balance Platform · Mission-critical flight dispatch
-              ├─  Angular · TypeScript · TailwindCSS · Ng-Zorro
-              └─  WebSocket-driven real-time / streaming UI
-
-2022 ─ 2023  🛒  n11.com
-              ├─  Mobile Web Renewal (m.n11.com)
-              ├─  Node.js + Vue.js migration · ~35% faster page loads
-              └─  Mobile conversion-focused front-end delivery
-
-2021 ─ 2022  📱  Vodafone (vodafone.com.tr)
-              ├─  Bill payment & top-up flows · PCI-sensitive journeys
-              └─  Angular state management · A/B testing
-
-2015 ─ 2021  🏢  İnnova Bilişim Çözümleri (Türk Telekom Group)
-              ├─  6 years of enterprise front-end delivery
-              ├─  Turkish Airlines Web 3.0 (secondment to IBM Turkey)
-              └─  Telecom portals · long-running client programs
-
-2013 ─ 2015  🎨  İnfinity Teknoloji
-              └─  Agency-style responsive web · visual-to-code delivery
-```
-
-<br/>
-
 <!-- ─────────────────────────  GITHUB STATS  ───────────────────── -->
 
 ## 📊 GitHub Analytics
