@@ -279,32 +279,7 @@ Cursor / Claude / ChatGPT workflows · prompt-guided refactoring · code review 
 <img width="95%" src="https://github-profile-trophy.vercel.app/?username=faruk-sekman&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
 
 </div>
-<!-- Stats card + Streak (side by side) -->
-<table>
-<tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=faruk-sekman&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=8B5CF6&text_color=CBD5E1&ring_color=8B5CF6" alt="GitHub stats" />
-</td>
-<td width="50%">
-  <img src="https://streak-stats.demolab.com?user=faruk-sekman&theme=tokyonight&hide_border=true&background=0F172A&stroke=8B5CF6&ring=8B5CF6&fire=D97757&currStreakLabel=8B5CF6&sideLabels=CBD5E1&dates=64748B" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
 
-<!-- Top languages full width -->
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faruk-sekman&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&text_color=CBD5E1&langs_count=8" alt="Top languages" />
-
-<br/><br/>
-
-<!-- Activity graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=faruk-sekman&bg_color=0F172A&color=CBD5E1&line=8B5CF6&point=D97757&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Activity graph" />
-
-<br/><br/>
-
-<!-- Profile Trophies -->
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=faruk-sekman&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-
-<br/><br/>
 
 <!-- Snake animation -->
 <img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
