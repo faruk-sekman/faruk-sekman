@@ -17,10 +17,6 @@ I build **AI-assisted delivery systems**, **production-grade front-end architect
   <a href="https://medium.com/@faruksekman">
     <img src="https://img.shields.io/badge/Medium-@faruksekman-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://github.com/faruk-sekman">
-    <img src="https://img.shields.io/badge/GitHub-faruk--sekman-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=faruk-sekman&style=flat-square&color=blueviolet" alt="Profile views" />
@@ -200,8 +196,7 @@ Angular micro-frontend architecture with separate **container**, **store** and *
 
 I like building systems where **AI, engineering discipline and product delivery** work together.
 
-**Website:** [faruksekman.com](https://faruksekman.com/)· **LinkedIn:** [faruksekman](https://www.linkedin.com/in/faruksekman) · **Medium:** [@faruksekman](https://medium.com/@faruksekman) · **GitHub:** [faruk-sekman](https://github.com/faruk-sekman) 
-
+**Website:** [faruksekman.com](https://faruksekman.com/)· **LinkedIn:** [faruksekman](https://www.linkedin.com/in/faruksekman) · **Medium:** [@faruksekman](https://medium.com/@faruksekman)
 ---
 
 **Currently:** Designing AI-native delivery systems, local agent workflows and production front-end architectures.
