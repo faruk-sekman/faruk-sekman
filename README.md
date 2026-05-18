@@ -3,7 +3,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <a href="https://github.com/faruk-sekman">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=%C3%96mer%20Faruk%20Sekman&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI-Native%20Software%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20Full-Stack%20AI%20Delivery&descAlignY=60&descSize=16&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Faruk%20Sekman&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI-Native%20Software%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20Full-Stack%20AI%20Delivery&descAlignY=60&descSize=16&animation=fadeIn" alt="header" />
 </a>
 
 <div align="center">
