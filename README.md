@@ -1,204 +1,348 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║              ÖMER FARUK SEKMAN · GITHUB PROFILE              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<a href="https://github.com/faruk-sekman">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=%C3%96mer%20Faruk%20Sekman&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI-Native%20Software%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20Full-Stack%20AI%20Delivery&descAlignY=60&descSize=16&animation=fadeIn" alt="header" />
+</a>
+
 <div align="center">
 
-# Hey, I'm Ömer Faruk Sekman 👋
+<a href="https://github.com/faruk-sekman">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Building+AI-assisted+delivery+systems;Designing+agentic+workflows+%26+task+workers;Architecting+real-time+%26+streaming+UIs;Turning+ideas+into+reliable+software%2C+faster" alt="Typing SVG" />
+</a>
 
-### Senior AI-Native Software Engineer · Agentic Systems · Full-Stack AI Delivery
+<br/>
 
-I build **AI-assisted delivery systems**, **production-grade front-end architectures** and **agentic workflows** that turn ideas into reliable software faster.
+<a href="https://faruksekman.com/">
+  <img src="https://img.shields.io/badge/Portfolio-faruksekman.com-0F172A?style=for-the-badge&logo=safari&logoColor=8B5CF6&labelColor=0F172A" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/faruksekman">
+  <img src="https://img.shields.io/badge/LinkedIn-faruksekman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn" />
+</a>
+<a href="https://medium.com/@faruksekman">
+  <img src="https://img.shields.io/badge/Medium-@faruksekman-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0F172A" alt="Medium" />
+</a>
+<br/>
 
-
-<p>
-  <a href="https://faruksekman.com/">
-    <img src="https://img.shields.io/badge/Website-faruksekman.com-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Personal Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/faruksekman">
-    <img src="https://img.shields.io/badge/LinkedIn-faruksekman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@faruksekman">
-    <img src="https://img.shields.io/badge/Medium-@faruksekman-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=faruk-sekman&style=flat-square&color=blueviolet" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=faruk-sekman&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/faruk-sekman?style=for-the-badge&color=8B5CF6&labelColor=0F172A&label=FOLLOWERS" alt="Followers" />
 
 
 </div>
 
----
+<br/>
 
-## Find me online
+<!-- ─────────────────────────  ABOUT  ───────────────────────── -->
 
-- **Website:** [faruksekman.com](https://faruksekman.com/) 
-- **LinkedIn:** [linkedin.com/in/faruksekman](https://www.linkedin.com/in/faruksekman)
-- **Medium:** [medium.com/@faruksekman](https://medium.com/@faruksekman)
-- **GitHub:** [github.com/faruk-sekman](https://github.com/faruk-sekman)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
 
----
+```yaml
+name:        Ömer Faruk Sekman
+role:        Senior AI-Native Software Engineer
+focus:       [ Agentic Systems, AI-Assisted Delivery, Front-End Architecture ]
+currently:   Designing AI-native delivery systems & local agent runtimes
+philosophy:  "AI is part of the delivery loop — not just a side tool."
+```
 
-## About Me
+I build systems where AI is **the primary production engine of the delivery loop**, not just a side tool. I combine front-end architecture with full-stack product delivery through **universal prompts**, **context bundles**, **LLM provider abstraction**, and **multi-agent collaboration**.
 
-I'm a software engineer, focused on building systems where AI is part of the delivery loop — not just a side tool.
+- 🏗️ I architect **multi-repo ecosystems** — FE / BE / Admin Panel / Agent runtime
+- ⚡ I build **real-time operational interfaces** — Angular, TypeScript, WebSocket-driven flows
+- 🤖 I use **Claude, ChatGPT, Gemini, and Cursor** as production partners
+- ✈️ I bring enterprise experience from **Aviation, Telecom, and E-commerce**
 
-My work combines **front-end architecture**, **full-stack product delivery**, and **AI-native engineering practices** such as universal prompts, context bundles, LLM provider abstraction, multi-agent collaboration and agentic task workers.
+<br/>
 
-- I architect multi-repo ecosystems across **frontend, backend, admin panels and agent runtimes**.
-- I build real-time operational interfaces with **Angular, TypeScript, WebSocket-driven flows and scalable component systems**.
-- I use tools like **Claude, ChatGPT, Gemini and Cursor** as production partners for refactoring, code review, test coverage and delivery acceleration.
-- I bring enterprise experience from **Aviation, Telecom and E-commerce** into AI-first software workflows.
+<!-- ─────────────────────────  SHIP  ───────────────────────── -->
 
----
+## 🚀 What I Ship
 
-## What I Ship
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Area | What I build |
-| --- | --- |
-| **Agentic Systems** | Local/multi-agent workflows, task workers, prompt pipelines, context bundles, AI-assisted QA loops |
-| **Front-End Architecture** | Angular/React applications, design systems, state management, accessibility, reusable UI modules |
-| **Full-Stack AI Plumbing** | Node.js, NestJS, Prisma, PostgreSQL, API orchestration, LLM provider abstraction |
-| **Real-Time Products** | WebSocket-driven operational UIs, streaming data flows, live dashboards and agent UI patterns |
-| **AI-Assisted Delivery** | Cursor/Claude/ChatGPT workflows, prompt-guided refactoring, code review and testing standards |
+### 🤖 Agentic Systems
+Local/multi-agent workflows, task workers, prompt pipelines, context bundles, AI-assisted QA loops
+</td>
+<td width="50%" valign="top">
 
----
+### 🎨 Front-End Architecture
+Angular/React applications, design systems, state management, accessibility, reusable UI modules
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Highlighted Work
+### 🔌 Full-Stack AI Plumbing
+Node.js, NestJS, Prisma, PostgreSQL, API orchestration, LLM provider abstraction
+</td>
+<td width="50%" valign="top">
 
-### [Local AI Team Simulator](https://github.com/faruk-sekman/local-ai-team-simulator)
-From a single sentence to a browser-previewable app through a **local AI software team**.
+### ⚡ Real-Time Products
+WebSocket-driven operational UIs, streaming data flows, live dashboards & agent UI patterns
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-`React` · `Express` · `TypeScript` · `Ollama` · `qwen2.5-coder` · `Agent Workflow`
+### 🛠️ AI-Assisted Delivery
+Cursor / Claude / ChatGPT workflows · prompt-guided refactoring · code review & testing standards · enterprise-grade quality
+</td>
+</tr>
+</table>
 
-- Manager, Backend, Designer, Frontend and QA style agent roles
-- Live workflow status via SSE
-- Safe iframe preview for generated HTML/CSS/JS
-- Offline/local AI flow after model setup
+<br/>
 
-### [Fintech Dashboard](https://github.com/faruk-sekman/fintechDashboard)
-Angular-based operations dashboard for managing **customers, wallets and transactions**.
+<!-- ─────────────────────  HIGHLIGHTED WORK  ──────────────────── -->
 
-`Angular` · `NgRx` · `RxJS` · `Tailwind` · `SCSS` · `ngx-translate` · `Vitest`
+## 🌟 Highlighted Work
 
-- Customer CRUD flows, wallet limit updates and transaction filters
-- TR/EN i18n, toast handling, light/dark theme
-- Lazy-loaded standalone architecture and feature-based structure
-- 80%+ minimum line coverage target
+<div align="center">
 
-### [Micro FrontEnd](https://github.com/faruk-sekman/microFrontEnd)
-Angular micro-frontend architecture with separate **container**, **store** and **shell** apps.
+<a href="https://github.com/faruk-sekman/local-ai-team-simulator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=faruk-sekman&repo=local-ai-team-simulator&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=8B5CF6" alt="Local AI Team Simulator" />
+</a>
+<a href="https://github.com/faruk-sekman/fintechDashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=faruk-sekman&repo=fintechDashboard&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=8B5CF6" alt="Fintech Dashboard" />
+</a>
 
-`Angular` · `Module Federation` · `TypeScript` · `Micro Frontend`
+<a href="https://github.com/faruk-sekman/microFrontEnd">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=faruk-sekman&repo=microFrontEnd&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=8B5CF6" alt="Micro FrontEnd" />
+</a>
+<a href="https://github.com/faruk-sekman/e-commerce_Angular">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=faruk-sekman&repo=e-commerce_Angular&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=8B5CF6" alt="E-commerce Angular" />
+</a>
 
-- Multi-app local run flow
-- Architecture diagrams and screen documentation
-- Separate root/container and remote application structure
+</div>
 
-### More Front-End Projects
+### 🔬 Project Highlights
+
+<details>
+<summary><b>🤖 Local AI Team Simulator</b> — From single sentence to browser-previewable app</summary>
+
+<br/>
+
+> A **local AI software team** that turns a prompt into a working web app via specialized agent roles.
+
+**Stack:** `React` · `Express` · `TypeScript` · `Ollama` · `qwen2.5-coder` · `Agent Workflow`
+
+- 🧠 Manager, Backend, Designer, Frontend & QA-style agent roles
+- 📡 Live workflow status via Server-Sent Events (SSE)
+- 🔒 Safe `iframe` preview for generated HTML/CSS/JS
+- 🌐 Fully offline / local AI flow after model setup
+</details>
+
+<details>
+<summary><b>💳 Fintech Dashboard</b> — Angular operations dashboard</summary>
+
+<br/>
+
+> Operations dashboard for managing **customers, wallets & transactions**.
+
+**Stack:** `Angular` · `NgRx` · `RxJS` · `Tailwind` · `SCSS` · `ngx-translate` · `Vitest`
+
+- 👥 Customer CRUD flows, wallet limit updates, transaction filters
+- 🌍 TR/EN i18n · toast handling · light/dark theme
+- 📦 Lazy-loaded standalone architecture · feature-based structure
+- ✅ 80%+ minimum line coverage target
+</details>
+
+<details>
+<summary><b>🧩 Micro FrontEnd</b> — Angular MFE architecture</summary>
+
+<br/>
+
+> Angular micro-frontend architecture with separate **container**, **store** & **shell** apps.
+
+**Stack:** `Angular` · `Module Federation` · `TypeScript`
+
+- 🚀 Multi-app local run flow
+- 📐 Architecture diagrams & screen documentation
+- 🔀 Separate root/container and remote application structure
+</details>
+
+<details>
+<summary><b>🛍️ Additional Front-End Projects</b></summary>
+
+<br/>
 
 | Project | Stack | Focus |
-| --- | --- | --- |
-| [e-commerce_Angular](https://github.com/faruk-sekman/e-commerce_Angular) | Angular · TypeScript · Bootstrap | E-commerce UI, product detail, basket and demo screens |
-| [e-commerce_Vue](https://github.com/faruk-sekman/e-commerce_Vue) | Vue · JavaScript | E-commerce flow with StackBlitz demo |
-| [taskListAngular](https://github.com/faruk-sekman/taskListAngular) | Angular · TypeScript | Task/voting style Angular application |
-| [userManagementVue](https://github.com/faruk-sekman/userManagementVue) | Vue | User management interface |
+| :--- | :--- | :--- |
+| [`e-commerce_Angular`](https://github.com/faruk-sekman/e-commerce_Angular) | Angular · TypeScript · Bootstrap | E-commerce UI, product detail, basket |
+| [`e-commerce_Vue`](https://github.com/faruk-sekman/e-commerce_Vue) | Vue · JavaScript | E-commerce flow with StackBlitz demo |
+| [`taskListAngular`](https://github.com/faruk-sekman/taskListAngular) | Angular · TypeScript | Task/voting Angular application |
+| [`userManagementVue`](https://github.com/faruk-sekman/userManagementVue) | Vue | User management interface |
 
----
+</details>
 
-## Tech Stack
+<br/>
 
-### AI, Agents & Delivery
+<!-- ─────────────────────────  TECH STACK  ───────────────────── -->
 
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1F6F5B?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Context_Bundles-6B46C1?style=flat-square)
-![LLMOps](https://img.shields.io/badge/LLMOps-Evals_%26_Workflows-111827?style=flat-square)
-
-### Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Ng-Zorro](https://img.shields.io/badge/Ng--Zorro-0170FE?style=flat-square&logo=antdesign&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-
-### Backend, Data & Infrastructure
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-### Quality & Tooling
-
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-Automation-064F8C?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## Experience Snapshot
-
-- **Turkish Airlines / Kafein Technology Solutions** — Weight & Balance platform, real-time operational UI, Angular/TypeScript/TailwindCSS/Ng-Zorro, WebSocket-driven data flows.
-- **n11.com** — Mobile web renewal, Node.js + Vue.js migration, performance-focused front-end delivery.
-- **Vodafone** — Bill payment and top-up journeys on a high-traffic telecom platform.
-- **İnnova / IBM Turkey** — Enterprise front-end delivery, Turkish Airlines Web 3.0, telecom portals and long-running client programs.
-- **İnfinity Teknoloji** — Agency-style responsive web interfaces and visual-to-code delivery.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=faruk-sekman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ömer Faruk Sekman's GitHub stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faruk-sekman&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=faruk-sekman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-## Currently Exploring
-
-- Local-first AI agent runtimes
-- LangGraph and n8n-based orchestration
-- RAG, context bundles and provider abstraction
-- AI-native front-end delivery workflows
-- Real-time streaming interfaces for agentic systems
-
----
-
-## Certifications & Learning
-
-- Basic Level Business Analysis Methodology Processes and Concepts
-- Enterprise Design Patterns & Architectures
-- Risk Management in Projects
-- Agile Project Management Methodologies and Applications
-
----
+## 🧰 Tech Stack
 
 <div align="center">
 
-### Let's connect
+#### 🤖 AI · Agents · Delivery
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1F6F5B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Context_Bundles-6B46C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMOps-Evals_%26_Workflows-111827?style=for-the-badge" />
+</p>
 
-I like building systems where **AI, engineering discipline and product delivery** work together.
+#### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,vue,ts,js,tailwind,html,css,sass" />
+</p>
 
-**Website:** [faruksekman.com](https://faruksekman.com/)· **LinkedIn:** [faruksekman](https://www.linkedin.com/in/faruksekman) · **Medium:** [@faruksekman](https://medium.com/@faruksekman)
----
+#### 🔧 Backend · Data · Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,python,docker,nginx,redis" />
+</p>
 
-**Currently:** Designing AI-native delivery systems, local agent workflows and production front-end architectures.
+#### 🧪 Quality · Tooling · DevEx
+<p>
+  <img src="https://skillicons.dev/icons?i=vitest,jest,git,github,vscode,bash,linux,vim" />
+</p>
 
 </div>
+
+<br/>
+
+<!-- ─────────────────────────  EXPERIENCE  ───────────────────── -->
+
+## 💼 Experience Snapshot
+
+```text
+2023 ─ 2025  ✈️  Turkish Airlines / Kafein Technology Solutions
+              ├─  Weight & Balance Platform · Mission-critical flight dispatch
+              ├─  Angular · TypeScript · TailwindCSS · Ng-Zorro
+              └─  WebSocket-driven real-time / streaming UI
+
+2022 ─ 2023  🛒  n11.com
+              ├─  Mobile Web Renewal (m.n11.com)
+              ├─  Node.js + Vue.js migration · ~35% faster page loads
+              └─  Mobile conversion-focused front-end delivery
+
+2021 ─ 2022  📱  Vodafone (vodafone.com.tr)
+              ├─  Bill payment & top-up flows · PCI-sensitive journeys
+              └─  Angular state management · A/B testing
+
+2015 ─ 2021  🏢  İnnova Bilişim Çözümleri (Türk Telekom Group)
+              ├─  6 years of enterprise front-end delivery
+              ├─  Turkish Airlines Web 3.0 (secondment to IBM Turkey)
+              └─  Telecom portals · long-running client programs
+
+2013 ─ 2015  🎨  İnfinity Teknoloji
+              └─  Agency-style responsive web · visual-to-code delivery
+```
+
+<br/>
+
+<!-- ─────────────────────────  GITHUB STATS  ───────────────────── -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- Stats card + Streak (side by side) -->
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=faruk-sekman&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=8B5CF6&text_color=CBD5E1&ring_color=8B5CF6" alt="GitHub stats" />
+</td>
+<td width="50%">
+  <img src="https://streak-stats.demolab.com?user=faruk-sekman&theme=tokyonight&hide_border=true&background=0F172A&stroke=8B5CF6&ring=8B5CF6&fire=D97757&currStreakLabel=8B5CF6&sideLabels=CBD5E1&dates=64748B" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
+<!-- Top languages full width -->
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faruk-sekman&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&text_color=CBD5E1&langs_count=8" alt="Top languages" />
+
+<br/><br/>
+
+<!-- Activity graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=faruk-sekman&bg_color=0F172A&color=CBD5E1&line=8B5CF6&point=D97757&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Activity graph" />
+
+<br/><br/>
+
+<!-- Profile Trophies -->
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=faruk-sekman&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+
+<br/><br/>
+
+<!-- Snake animation -->
+<img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────  EXPLORING  ───────────────────── -->
+
+## 🔭 Currently Exploring
+
+<table>
+<tr>
+<td>🧠</td><td><b>Local-first AI agent runtimes</b> — privacy-first agent systems running on local machines</td>
+</tr>
+<tr>
+<td>🕸️</td><td><b>LangGraph & n8n orchestration</b> — stateful, multi-step agent choreography</td>
+</tr>
+<tr>
+<td>📚</td><td><b>RAG, context bundles & provider abstraction</b> — LLM-agnostic production pipelines</td>
+</tr>
+<tr>
+<td>⚡</td><td><b>AI-native front-end delivery workflows</b> — prompt-driven refactoring & QA</td>
+</tr>
+<tr>
+<td>📡</td><td><b>Real-time streaming interfaces</b> — live UI patterns for agentic systems</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────────────────────  CERTS  ───────────────────── -->
+
+## 🎓 Certifications & Learning
+
+- 🧩 **Enterprise Design Patterns & Architectures** — BT Akademi
+- 📈 **Basic Level Business Analysis Methodology** — Bilginç IT
+- 🛡️ **Risk Management in Projects** — İstanbul Kurumsal Gelişim
+- 🔄 **Agile Project Management Methodologies** — İstanbul Kurumsal Gelişim
+
+<br/>
+
+<!-- ─────────────────────────  CONNECT  ───────────────────── -->
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+> I love building systems where **AI, engineering discipline, and product delivery** work together.<br/>
+> If you'd like to talk about agentic systems, AI-assisted delivery, or real-time UIs, my door is open.
+
+<br/>
+
+<a href="https://faruksekman.com/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-faruksekman.com-8B5CF6?style=for-the-badge&labelColor=0F172A" />
+</a>
+<a href="https://www.linkedin.com/in/faruksekman">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-faruksekman-0A66C2?style=for-the-badge&labelColor=0F172A" />
+</a>
+<a href="https://medium.com/@faruksekman">
+  <img src="https://img.shields.io/badge/✍️_Medium-@faruksekman-12100E?style=for-the-badge&labelColor=0F172A" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=Designing%20AI-native%20delivery%20systems&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt="footer" />
