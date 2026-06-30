@@ -349,3 +349,4 @@ Cursor / Claude / ChatGPT workflows · prompt-guided refactoring · code review 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=Designing%20AI-native%20delivery%20systems&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt="footer" />
+
