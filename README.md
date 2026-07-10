@@ -126,25 +126,25 @@ Cursor / Claude / ChatGPT workflows · prompt-guided refactoring · code review 
 </td>
 <td width="50%" valign="top">
 
-### 💳 [Fintech Dashboard](https://github.com/faruk-sekman/fintechDashboard)
+### 💳 [Vaultchain — Fintech Dashboard](https://github.com/faruk-sekman/vaultchain-fintech-dashboard)
 
-> Angular-based operations dashboard for managing **customers, wallets & transactions**.
+> Full-stack fintech operations console for **customers, KYC, wallets & transactions**.
 
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white" />
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS_11-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma_7-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-- 👥 Customer CRUD flows, wallet limit updates, transaction filters
-- 🌍 TR/EN i18n · toast handling · light/dark theme
-- 📦 Lazy-loaded standalone architecture
-- ✅ 80%+ minimum line coverage target
+- 🔐 Server-side RBAC, MFA, audited PII reveal & tamper-evident audit trail
+- 💸 Atomic double-entry ledger with idempotent money movement
+- 📡 Live SSE dashboards · TR/EN i18n · light/dark theme
+- 🐳 One-command Docker Compose demo · unit, integration & E2E gates
 
-<a href="https://github.com/faruk-sekman/fintechDashboard">
-  <img src="https://img.shields.io/github/stars/faruk-sekman/fintechDashboard?style=for-the-badge&color=8B5CF6&labelColor=0F172A&logo=github" alt="Stars" />
+<a href="https://github.com/faruk-sekman/vaultchain-fintech-dashboard">
+  <img src="https://img.shields.io/github/stars/faruk-sekman/vaultchain-fintech-dashboard?style=for-the-badge&color=8B5CF6&labelColor=0F172A&logo=github" alt="Stars" />
 </a>
 
 </td>
@@ -349,4 +349,3 @@ Cursor / Claude / ChatGPT workflows · prompt-guided refactoring · code review 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=Designing%20AI-native%20delivery%20systems&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt="footer" />
-
